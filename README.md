@@ -1,6 +1,6 @@
 # CiviCRM user training
 
-A training guide and handouts for user training.
+A guide and handouts for CiviCRM user training.
 
 ## Serving the guide and handouts
 
