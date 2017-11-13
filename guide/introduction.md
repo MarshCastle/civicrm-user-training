@@ -8,7 +8,7 @@ Some general tips
 - Before each session, open up tabs that will be useful.
 - Do not try and explain absolutely everything or talk to much about edge cases - there is more than can be covered in two days
 - Try not to interrupt exercises, better to share additional insights at the end
-- Check how trainees have answered the questions on in individual basis (like a teacher would). You'll likely find a few mistakes and it will give you a good idea about how individual people are getting on. You can start doing this towards the end of the exercise period.
+- Check how trainees have answered the questions on an individual basis (like a teacher would). You'll likely find a few mistakes and it will give you a good idea about how individual people are getting on. You can start doing this towards the end of the exercise period.
 
 ## Day 1 intro
 
@@ -21,13 +21,13 @@ Some general tips
     - Sessions format is generally
     - presentations and discussion, followed by
     - exercises, followed by recap of the session
-    - start with the basics, gets more advanced as we go one.
+    - start with the basics, gets more advanced as we go on.
 - Exercises
     - you don't need to do all of them - you can save some for afterwards
     - Please feedback on our exercises as we go. If you think of something, make a note and feed it back to us.
 - Questions
     - Feel free to ask questions as we go
-    - please also respect everyone's time - we diverse group so please don't ask a long series of questions on your very specific use case
+    - please also respect everyone's time - we are a diverse group so please don't ask a long series of questions on your very specific use case
 - Usernames and passwords, etc.
     - wifi user name and password
     - training site username and password

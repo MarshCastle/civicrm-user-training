@@ -16,9 +16,6 @@ Specific objectives
 
 You should aim to cover the following points in this session:
 
-- this is a bullet
-    - this is an indented bullet
-
 - About the project
     - History of CiviCRM
     - The release cycle
@@ -52,7 +49,7 @@ Open some tabs that illustrate various places that people can / should go to ask
 - professional services
 - stack exchange
 - bug and issue tracker
-- wiki
+- documentation
 - meet ups / events pages
 
 ### Introduction

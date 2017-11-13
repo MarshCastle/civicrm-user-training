@@ -72,4 +72,4 @@ Examine the scheduled jobs list and explain the purpose of each item
 
 ### More useful tools for Set Up
 
-Explain that the Wiki / CiviCRM book contains a lot of detail and stress how important it is that an installations is configured correctly.
+Explain that the CiviCRM Docmentation contains a lot of detail and stress how important it is that an installations is configured correctly.

@@ -56,7 +56,7 @@ People tend to get quite hung up on the difference between groups and tags, and 
 - There is quite a lot of overlap between tags and groups
 - There are some things that groups can do that tags can't, and visa versa (see handout for details)
 - You'll learn from experience when to use one and not the other.
-- You can reasonably easily change from a group to a tag and visa versa (select all contacts with a tag, and add them to a contact)
+- You can reasonably easily change from a group to a tag and visa versa (select all contacts with a tag, and add them to a group)
 
 Take questions from the learners on their use cases.
 
