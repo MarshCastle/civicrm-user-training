@@ -23,54 +23,51 @@ markdown_extensions:
   - pymdownx.mark
 
 nav:
-  - Home: index.md
+  - Preparation for Trainers: introduction-for-trainers.md
   - Courses:
-    - 2 day instensive training: 2-day-course.md
+    - 2 day instensive training: courses/2-day-course.md
   - Sessions:
-    - Introduction:
-      - Session: introduction.md
-      - Handout: handout/introduction.md
     - Introduction to CiviCRM:
-      - Session: introduction-to-civicrm.md
+      - Session: sessions/introduction-to-civicrm.md
       - Handout: handout/introduction-to-civicrm.md
     - Setup:
-      - Session: setup.md
+      - Session: sessions/setup.md
       - Handout: handout/setup.md
     - Organising data:
-      - Session: organising-data.md
+      - Session: sessions/organising-data.md
       - Handout: handout/organising-data.md
     - Profiles:
-      - Session: profiles.md
+      - Session: sessions/profiles.md
       - Handout: handout/profiles.md
     - Contribute:
-      - Session: contribute.md
+      - Session: sessions/contribute.md
       - Handout: handout/contribute.md
     - Duplicates:
-      - Session: duplicates.md
+      - Session: sessions/duplicates.md
       - Handout: handout/duplicates.md
     - Website integration:
-      - Session: website-integration.md
+      - Session: sessions/website-integration.md
       - Handout: handout/website-integration.md
     - Events:
-      - Session: events.md
+      - Session: sessions/events.md
       - Handout: handout/events.md
     - Membership:
-      - Session: membership.md
+      - Session: sessions/membership.md
       - Handout: handout/membership.md
     - Communications:
-      - Sessions: communications.md
+      - Sessions: sessions/communications.md
       - Handout: handout/communications.md
     - Reports:
-      - Session: reports.md
+      - Session: sessions/reports.md
       - Handout: handout/reports.md
     - Case management:
-      - Session: case.md
+      - Session: sessions/case.md
       - Handout: handout/case.md
     - Grant:
-      - Session: grants.md
+      - Session: sessions/grants.md
       - Handout: handout/grants.md
     - Campaign:
-      - Session: campaign.md
+      - Session: sessions/campaign.md
       - Handout: handout/campaign.md
 
 dev_host: 0.0.0.0:8000
