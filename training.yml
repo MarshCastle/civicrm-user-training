@@ -1,0 +1,43 @@
+site_name: 'CiviCRM user and admin training: trainers guide'
+
+#site_url: https://docs.civicrm.org/training/en/stable/
+repo_url: https://github.com/civicrm/civicrm-training-guide
+
+site_description: 'This guide is aimed at CiviCRM trainers who train users, system administrators and developers who would like to learn more about configuring and using CiviCRM'
+
+site_author: 'The CiviCRM community'
+theme: material
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - def_list
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tilde
+  - pymdownx.betterem
+  - pymdownx.mark
+
+nav:
+  - Home: index.md
+  - Sessions: sessions.md
+  - Timetable: timetable.md
+  - Introduction: introduction.md
+  - Introduction to CiviCRM: introduction-to-civicrm.md
+  - Setup: setup.md
+  - Organising data: organising-data.md
+  - Profiles: profiles.md
+  - Contribute: contribute.md
+  - Duplicates: duplicates.md
+  - Website integration: website-integration.md
+  - Events: events.md
+  - Membership: membership.md
+  - Communications: communications.md
+  - Reports: reports.md
+  - Case management: case.md
+  - Grant: grants.md
+  - Campaign: campaign.md
