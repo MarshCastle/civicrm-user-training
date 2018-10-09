@@ -1,6 +1,23 @@
 # Introduction to CiviCRM
 
+### Background of CiviCRM
+
+CiviCRM is an open source CRM built by a commuyoty of contributors and supporters, and coordinated by the Core Team. CiviCRM is web-based software used by a diverse range of organisations, particularly not-for-profit organizations (nonprofits and civic sector organizations). CiviCRM offers a complete feature set out of the box and can integrate with your website.
+
+CiviCRM is created and used by a global community of tens of thousands of individuals and organisations. Our vision is that 'all organisations – regardless of their size, budget, or focus – have access to an amazing CRM to engage their contacts and achieve their missions'. Our roadmap outlines the shorter term goals we are implementing to acheive our vision.
+
+
+### Information and Support
+
+There is an excellent, community maintained, User Guide available in the official CiviCRM documentation (https://docs.civicrm.org/).
+
+If you can't find what you need in there - there is a Stack Exchange site where you may find just the answer you are looking for. There's a search bo x there - you may find it very beneficial to open an account there - so you can be notified when there are answers to questions that you show an interest in (https://civicrm.stackexchange.com/).
+
+If you find something broken in CiviCRM, you can report it to the GitLab issue queue, although this is not such a straightforward task. The CiviCRM GitLab instance is here: https://lab.civicrm.org/infrastructure
+
+
 ## Exercises
+
 
 ### Your user account and contact record
 

@@ -1,18 +1,21 @@
 # Introduction to CiviCRM
 
-## Aim
+### Aim
 
-After this session, participants should understand what CiviCRM is and be able to find their way around basic CiviCRM screens.
+After this session, participants should understand a little about the history of CiviCRM, the difference between a CMS and a CRM, what CiviCRM is and be able to navigate basic CiviCRM screens and data.
 
-## Objectives
+### Objectives
 
-Specific objectives
+Understand:
 
-- Have a basic understanding of the history of CiviCRM, and what problems it set out to solve
-- Understand how the CiviCRM community works and where you can find further information and support
+- The history and background of CiviCRM and it's community.
+- How and where you can find further information and support
+- The potential of CiviCRM (Components, Extensions & Customisations)
+
 - Be familiar with basic user interface elements, record types, and getting around CiviCRM
 
-## Learning points
+
+### Learning points
 
 You should aim to cover the following points in this session:
 
@@ -20,24 +23,20 @@ You should aim to cover the following points in this session:
     - History of CiviCRM
     - The release cycle
 - The community
-    - users
-    - service providers
-    - website and stack exchange
-    - meetups and conferences
-    - how to contribute (make it happen, help people on stack exchange, etc.)
-- Problems
-    - Getting help
+    - users, service providers, partners
+    - website, meetups and conferences
+    - Help, Documentation, StackExchange, Jira, Make It Happen
 - User interface
     - Contacts
     - Finding contacts
     - Advanced search
     - Actions
 
-## Session plan
+### Session plan
 
-This session should last 60 minutes.
+You should allow 60mins for this session.
 
-Depending on how advanced the class is, the getting around the user interface may last less time than noted. In this case, there are plenty of more challenging / exploratory exercises that students can do in the handout. Also, you might want to chat with students have finished exercises about existing implementations / needs.
+Depending on how advanced the class is, explaining how to navigate the user interface may last less time than noted. In this case, there are plenty of more challenging / exploratory exercises that students can do in the handout. Also, you might want to chat with students when they have finished exercises about existing implementations / needs.
 
 ### Preparation
 
@@ -52,7 +51,7 @@ Open some tabs that illustrate various places that people can / should go to ask
 - documentation
 - meet ups / events pages
 
-### Introduction
+## Introduction
 
 Outline that in this session, we'll talk about the following things
 
