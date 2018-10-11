@@ -3,6 +3,7 @@
 ## Preparation for trainers
 
 Some general tips:
+
 - Before each session, make sure you have useful pages bookmarked or open in tabs
 - You might want to start the training with a short icebreaker
 - Do not try and explain absolutely everything or talk too much about edge cases
