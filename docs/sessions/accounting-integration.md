@@ -1,4 +1,5 @@
 # Accounting Integration
+[handout](../handout/accounting-integration.md)
 
 ##Aim
 By the end of this session, you should be able to export accounting information so that it can be imported into QuickBooks or a similar accounting package.

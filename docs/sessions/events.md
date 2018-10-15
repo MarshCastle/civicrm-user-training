@@ -1,4 +1,5 @@
 # Events
+[handout](../handout/events.md)
 
 ##Aim
 

@@ -1,4 +1,5 @@
 # Set up
+[handout](../handout/setup.md)
 
 ##Aim
 

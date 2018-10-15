@@ -1,4 +1,5 @@
 # Campaigns, Surveys and Petitions
+[handout](../handout/campaign.md)
 
 ##Aim
 

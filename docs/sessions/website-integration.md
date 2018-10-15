@@ -1,4 +1,5 @@
 # Website integration
+[handout](../handout/website-integration.md)
 
 ##Aim
 

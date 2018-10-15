@@ -1,4 +1,5 @@
 # Activities
+[handout](../handout/activities.md)
 
 ##Aims
 

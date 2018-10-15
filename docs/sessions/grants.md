@@ -1,4 +1,5 @@
 # Grants
+[handout](../handout/grants.md)
 
 ##Aim
 

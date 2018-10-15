@@ -1,4 +1,5 @@
 # Contribute
+[handout](../handout/contribute.md)
 
 ##Aim
 

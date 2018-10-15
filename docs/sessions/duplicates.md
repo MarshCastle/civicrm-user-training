@@ -1,4 +1,5 @@
 # Duplicates
+[handout](../handout/duplicates.md)
 
 ##Aim
 

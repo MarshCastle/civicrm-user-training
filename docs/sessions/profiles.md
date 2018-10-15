@@ -1,4 +1,5 @@
 # Profiles
+[handout](../handout/profiles.md)
 
 ##Aim
 

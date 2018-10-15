@@ -1,4 +1,5 @@
 # Case Management
+[handout](../handout/case-management.md)
 
 ##Aim
 

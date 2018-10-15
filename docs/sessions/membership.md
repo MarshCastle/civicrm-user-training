@@ -1,4 +1,5 @@
 # Membership
+[handout](../handout/membership.md)
 
 ##Aim
 

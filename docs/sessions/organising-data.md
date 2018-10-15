@@ -1,4 +1,5 @@
 # Organising data
+[handout](../handout/organising-data.md)
 
 ##Aim
 
